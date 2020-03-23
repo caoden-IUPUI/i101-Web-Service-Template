@@ -1,46 +1,36 @@
-# Web Service Template
-This web service provides access to data on the top 100 movies (as voted by viewers).
+# Web Service 
+This web service provides access to data on the top 100 songs via Spotify
 
-## All 100 movies
+## Top Five Streamed Songs
 
 #### Description
-Retrieve all data about the top 100 movies
+Retrieve data about the top 5 most danceable songs
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/
-
+https://repl.it/@ChaseOden/pythonRoutes
 #### Parameters
 None
 
-#### Example
-https://jsroutes--jimlyst.repl.co/
-
-## Top Five Movies
+## All Artists 
 
 #### Description
-Retrieve all data about the top 5 movies
+Retrieve all data about the Artists
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/top-five
-
+https://repl.it/@ChaseOden/pythonRoutes
 #### Parameters
 None
 
-#### Example
-https://jsroutes--jimlyst.repl.co/top-five
 
-
-## Movies by Year
+## Movies by Tempo
 
 #### Description
-Retrieve all data about movies from a particular year.
+Retrieve all data about movies from tempo
+
+
+## Movies by Mode
 
 #### API Call
-https://jsroutes--jimlyst.repl.co/get-year/{year}
-
-#### Parameters
-**year**
-The movie release year to search
-
-#### Example
-https://jsroutes--jimlyst.repl.co/get-year/2019
+https://repl.it/@ChaseOden/pythonRoutes
+#### Description
+The Song by Mode it is in
