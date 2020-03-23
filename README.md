@@ -24,6 +24,9 @@ None
 
 ## Movies by Tempo
 
+#### API Call 
+https://repl.it/@ChaseOden/pythonRoutes
+
 #### Description
 Retrieve all data about movies from tempo
 
